@@ -1,4 +1,4 @@
-# Hi, I'm 1bit-JS 👋
+![1bit-JS](./Halloween-1bit-JS.png)
 
 I'm a **full-stack developer connecting industrial devices with web and mobile services**.
 
