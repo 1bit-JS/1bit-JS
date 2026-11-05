@@ -29,7 +29,7 @@ TypeScript · React · Node.js · NestJS · React Native · Expo · PostgreSQL
 <details>
 <summary>한국어 소개</summary>
 
-### 안녕하세요, 1bit-JS입니다 👋
+### 안녕하세요, 1bit-JS입니다 🦈
 
 현장 장비와 운영 서비스를 연결하는 **6년차 풀스택 개발자**입니다.
 
